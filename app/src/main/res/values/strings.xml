@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeyForgeDeckLoger</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sing_in">SingIn</string>
+    <string name="sing_out">SING OUT</string>
+    <string name="add_deck">ADD DECK</string>
+</resources>
